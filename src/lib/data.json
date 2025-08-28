@@ -1,0 +1,1394 @@
+{
+  "modsAPruebaGroups": [
+    {
+      "id": "group1",
+      "nombre": "Grupo 1",
+      "revisadoPor": "Grupo 1",
+      "modsElites": "Baggio y Marino",
+      "senior": "Sergio",
+      "directores": "",
+      "periodo": "DESDE EL 1/08/25 - 10/08/25",
+      "hora": "23:47 ARG | 4:47 ESP",
+      "mods": [
+        {
+          "id": "m2",
+          "nombre": "Yavi",
+          "entrenos": 3,
+          "entrenosPropios": 2,
+          "trys": 12,
+          "rolesPJ": 1,
+          "rolEspontaneo": 0,
+          "misiones": 5,
+          "inactividad": null,
+          "resumen": "Va bien",
+          "servidor": "ESP",
+          "esSgtPlus": true
+        },
+        {
+          "id": "m1",
+          "nombre": "Wither",
+          "entrenos": 1,
+          "entrenosPropios": 1,
+          "trys": 1,
+          "rolesPJ": 0,
+          "rolEspontaneo": 1,
+          "misiones": 0,
+          "inactividad": "No justificada",
+          "resumen": "Va mal",
+          "servidor": "ESP",
+          "esSgtPlus": true
+        },
+        {
+          "id": "m3",
+          "nombre": "isma",
+          "entrenos": 3,
+          "entrenosPropios": 4,
+          "trys": 3,
+          "rolesPJ": null,
+          "rolEspontaneo": null,
+          "misiones": 4,
+          "inactividad": null,
+          "resumen": "Nuevo",
+          "servidor": "ARG",
+          "esSgtPlus": false
+        }
+      ],
+      "promotions": [
+        {
+          "modId": "m2",
+          "modName": "Yavi",
+          "reason": "Cumple con requisitos."
+        }
+      ],
+      "warnings": [
+        {
+          "modId": "m1",
+          "modName": "Wither",
+          "reason": "Actividad Baja"
+        }
+      ]
+    }
+  ],
+  "modsPlusGroups": [
+    {
+      "id": "group-plus-1",
+      "nombre": "JULIO",
+      "revisadoPor": "Grupo 1",
+      "modsElites": "Kito, Pedro y Uripa",
+      "senior": "",
+      "directores": "",
+      "periodo": "DESDE EL 01/07/25 - 31/07/25",
+      "hora": "23:22 ESP | 18:22 ARG",
+      "mods": [
+        {
+          "id": "mp1",
+          "nombre": "Falkoner+",
+          "rangoPlus": "Senior",
+          "entrenos": null,
+          "entrenosPropios": null,
+          "trys": null,
+          "rolesPJ": null,
+          "rolEspontaneo": null,
+          "misiones": null,
+          "supervisiones": 5,
+          "inactividad": null,
+          "resumen": "Va bien",
+          "servidor": "ARG",
+          "esSgtPlus": true,
+          "abandona": false
+        },
+        {
+          "id": "mp2",
+          "nombre": "Alloy+",
+          "rangoPlus": "Elite",
+          "entrenos": null,
+          "entrenosPropios": 3,
+          "trys": 3,
+          "rolesPJ": 3,
+          "rolEspontaneo": null,
+          "misiones": 3,
+          "supervisiones": 2,
+          "inactividad": null,
+          "resumen": "Va bien",
+          "servidor": "ARG",
+          "esSgtPlus": true,
+          "abandona": false
+        },
+        {
+          "id": "mp3",
+          "nombre": "Lich+",
+          "rangoPlus": "Miembro",
+          "entrenos": null,
+          "entrenosPropios": 19,
+          "trys": 29,
+          "rolesPJ": 7,
+          "rolEspontaneo": null,
+          "misiones": 2,
+          "supervisiones": null,
+          "inactividad": null,
+          "resumen": "Va regular",
+          "servidor": "ARG",
+          "esSgtPlus": true,
+          "abandona": false
+        },
+        {
+          "id": "new-1756355987342",
+          "nombre": "Nuevo Mod",
+          "rangoPlus": "Miembro",
+          "entrenos": null,
+          "entrenosPropios": null,
+          "trys": null,
+          "rolesPJ": null,
+          "rolEspontaneo": null,
+          "misiones": null,
+          "supervisiones": null,
+          "inactividad": null,
+          "resumen": "Nuevo",
+          "servidor": "ARG",
+          "esSgtPlus": false,
+          "abandona": false
+        }
+      ],
+      "promotions": [],
+      "warnings": []
+    }
+  ],
+  "eventMasterGroups": [
+    {
+      "id": "em-group-1",
+      "mes": "Junio",
+      "fechaRealizacion": "01-07-2025 (ARG y ESP)",
+      "elitesACargo": "Orion (ARG y ESP)",
+      "totalEMs": 3,
+      "oficiales": [
+        {
+          "id": "em1",
+          "staff": "Pane",
+          "region": "ARG",
+          "miniroles": null,
+          "eventosSV1": null,
+          "misionesSV2": 2,
+          "ayudasSV1_SV2": 1,
+          "inactividad": "Injustificada",
+          "advSanciones": null,
+          "tipoAdvSancion": null,
+          "requisitos": "Incompleto",
+          "notas": "Reducción de act desde el 25/6 actualmente",
+          "ultimatum": null
+        },
+        {
+          "id": "2025-08-28T04:50:17.602Z",
+          "staff": "a",
+          "region": "ARG",
+          "miniroles": null,
+          "eventosSV1": null,
+          "misionesSV2": null,
+          "ayudasSV1_SV2": null,
+          "inactividad": null,
+          "advSanciones": null,
+          "tipoAdvSancion": "",
+          "requisitos": null,
+          "notas": "",
+          "ultimatum": ""
+        }
+      ],
+      "aPrueba": [
+        {
+          "id": "em2",
+          "staff": "Nico",
+          "region": "ARG",
+          "miniroles": null,
+          "eventosSV1": null,
+          "misionesSV2": null,
+          "ayudasSV1_SV2": 1,
+          "inactividad": "Justificada",
+          "advSanciones": null,
+          "tipoAdvSancion": null,
+          "requisitos": "Incompleto por poco",
+          "notas": null,
+          "ultimatum": "ULTIMATUM"
+        }
+      ]
+    }
+  ],
+  "planets": {
+    "Muunilinst": {
+      "x": 180,
+      "y": 30,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Ord Trasi": {
+      "x": 300,
+      "y": 40,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Ithor": {
+      "x": 150,
+      "y": 80,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Serenno": {
+      "x": 350,
+      "y": 80,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Ord Cantrell": {
+      "x": 130,
+      "y": 120,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Mygeeto": {
+      "x": 280,
+      "y": 110,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Ord Mantell": {
+      "x": 200,
+      "y": 130,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Greental": {
+      "x": 290,
+      "y": 150,
+      "faction": "ALIADO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Foerost": {
+      "x": 170,
+      "y": 180,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Bogden": {
+      "x": 320,
+      "y": 200,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Uphrades": {
+      "x": 150,
+      "y": 220,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Coruscant": {
+      "x": 230,
+      "y": 240,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Aargau": {
+      "x": 180,
+      "y": 280,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Raithal": {
+      "x": 100,
+      "y": 290,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Delgaroth": {
+      "x": 150,
+      "y": 330,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Khomm": {
+      "x": 170,
+      "y": 380,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Hynestia Prime": {
+      "x": 120,
+      "y": 450,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Fondor": {
+      "x": 230,
+      "y": 440,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Roxuli": {
+      "x": 180,
+      "y": 420,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Basilisk": {
+      "x": 180,
+      "y": 500,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Mechis III": {
+      "x": 200,
+      "y": 580,
+      "faction": "ALIADO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Mustafar": {
+      "x": 150,
+      "y": 650,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Bomis Koori IV": {
+      "x": 180,
+      "y": 680,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Eriadu": {
+      "x": 350,
+      "y": 660,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Utapau": {
+      "x": 200,
+      "y": 750,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Tidrin": {
+      "x": 280,
+      "y": 680,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Praesitlyn": {
+      "x": 300,
+      "y": 620,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Jakku": {
+      "x": 250,
+      "y": 550,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Takodana": {
+      "x": 230,
+      "y": 520,
+      "faction": "ALIADO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Corellia": {
+      "x": 300,
+      "y": 400,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Anaxes": {
+      "x": 300,
+      "y": 260,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Bimental": {
+      "x": 280,
+      "y": 180,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Alsakan": {
+      "x": 400,
+      "y": 250,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Rendili": {
+      "x": 350,
+      "y": 380,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Alderaan": {
+      "x": 450,
+      "y": 380,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Deko Neimoidia": {
+      "x": 380,
+      "y": 480,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Kuat": {
+      "x": 430,
+      "y": 520,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Ando": {
+      "x": 380,
+      "y": 550,
+      "faction": "CONTRABANDISTAS",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Cato Neimoidia": {
+      "x": 330,
+      "y": 580,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Krant": {
+      "x": 330,
+      "y": 650,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Naboo": {
+      "x": 380,
+      "y": 700,
+      "faction": "ALIADO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Tatooine": {
+      "x": 450,
+      "y": 650,
+      "faction": "ALIADO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Christophsis": {
+      "x": 350,
+      "y": 750,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Geonosis": {
+      "x": 480,
+      "y": 720,
+      "faction": "CONTRABANDISTAS",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Ryloth": {
+      "x": 450,
+      "y": 780,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Rishi": {
+      "x": 550,
+      "y": 790,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Kamino": {
+      "x": 650,
+      "y": 800,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Nelvaan": {
+      "x": 600,
+      "y": 720,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Kashyyyk": {
+      "x": 550,
+      "y": 650,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Rothana": {
+      "x": 520,
+      "y": 680,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Ord Pardron": {
+      "x": 500,
+      "y": 620,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Emberlene": {
+      "x": 480,
+      "y": 580,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Umbara": {
+      "x": 520,
+      "y": 550,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Castell": {
+      "x": 580,
+      "y": 580,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Raxus Prime": {
+      "x": 650,
+      "y": 550,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Smyrth": {
+      "x": 550,
+      "y": 480,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Mandalore": {
+      "x": 500,
+      "y": 450,
+      "faction": "MANDALORE",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Bracca": {
+      "x": 520,
+      "y": 420,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Carida": {
+      "x": 550,
+      "y": 380,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Pammat": {
+      "x": 620,
+      "y": 390,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Moncala": {
+      "x": 700,
+      "y": 420,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Felucia": {
+      "x": 550,
+      "y": 300,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Caamas": {
+      "x": 480,
+      "y": 280,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Bandomeer": {
+      "x": 420,
+      "y": 180,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Ord Cestus": {
+      "x": 480,
+      "y": 200,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Florrum": {
+      "x": 550,
+      "y": 70,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Vandor": {
+      "x": 600,
+      "y": 120,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Dathomir": {
+      "x": 580,
+      "y": 180,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Mintooine": {
+      "x": 650,
+      "y": 200,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Thule": {
+      "x": 720,
+      "y": 220,
+      "faction": "REPUBLICANO",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Saleucami": {
+      "x": 700,
+      "y": 280,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Raxus Secundus": {
+      "x": 750,
+      "y": 600,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Boz Pity": {
+      "x": 720,
+      "y": 480,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Olla IV": {
+      "x": 650,
+      "y": 620,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Charros IV": {
+      "x": 680,
+      "y": 680,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Jabiim": {
+      "x": 750,
+      "y": 700,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Seraphine": {
+      "x": 450,
+      "y": 50,
+      "faction": "SEPARATISTA",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    },
+    "Rhen Var": {
+      "x": 580,
+      "y": 340,
+      "faction": "NEUTRAL",
+      "nativePopulation": "",
+      "lore": "",
+      "postMissionReports": ""
+    }
+  },
+  "routes": [
+    {
+      "from": "Muunilinst",
+      "to": "Ithor",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Ithor",
+      "to": "Ord Cantrell",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Ord Cantrell",
+      "to": "Uphrades",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Uphrades",
+      "to": "Raithal",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Raithal",
+      "to": "Delgaroth",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Delgaroth",
+      "to": "Roxuli",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Roxuli",
+      "to": "Hynestia Prime",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Hynestia Prime",
+      "to": "Basilisk",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Basilisk",
+      "to": "Mechis III",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Mechis III",
+      "to": "Mustafar",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Mustafar",
+      "to": "Bomis Koori IV",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Bomis Koori IV",
+      "to": "Utapau",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Serenno",
+      "to": "Greental",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Greental",
+      "to": "Ord Mantell",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Ord Mantell",
+      "to": "Foerost",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Foerost",
+      "to": "Aargau",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Aargau",
+      "to": "Khomm",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Khomm",
+      "to": "Fondor",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Fondor",
+      "to": "Takodana",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Takodana",
+      "to": "Jakku",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Jakku",
+      "to": "Praesitlyn",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Praesitlyn",
+      "to": "Tidrin",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Tidrin",
+      "to": "Eriadu",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Eriadu",
+      "to": "Utapau",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Mygeeto",
+      "to": "Bimental",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Bimental",
+      "to": "Anaxes",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Bogden",
+      "to": "Coruscant",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Coruscant",
+      "to": "Corellia",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Rendili",
+      "to": "Alderaan",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Alderaan",
+      "to": "Carida",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Carida",
+      "to": "Bracca",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Bracca",
+      "to": "Mandalore",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Mandalore",
+      "to": "Smyrth",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Smyrth",
+      "to": "Castell",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Castell",
+      "to": "Raxus Prime",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Raxus Prime",
+      "to": "Olla IV",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Olla IV",
+      "to": "Charros IV",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Charros IV",
+      "to": "Jabiim",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Jabiim",
+      "to": "Raxus Secundus",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Raxus Secundus",
+      "to": "Boz Pity",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Boz Pity",
+      "to": "Moncala",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Moncala",
+      "to": "Pammat",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Pammat",
+      "to": "Rhen Var",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Rhen Var",
+      "to": "Felucia",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Felucia",
+      "to": "Thule",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Thule",
+      "to": "Saleucami",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Saleucami",
+      "to": "Felucia",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Dathomir",
+      "to": "Mintooine",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Mintooine",
+      "to": "Vandor",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Vandor",
+      "to": "Florrum",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Florrum",
+      "to": "Seraphine",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Seraphine",
+      "to": "Ord Trasi",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Alsakan",
+      "to": "Caamas",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Caamas",
+      "to": "Ord Cestus",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Ord Cestus",
+      "to": "Bandomeer",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Deko Neimoidia",
+      "to": "Kuat",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Kuat",
+      "to": "Umbara",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Umbara",
+      "to": "Emberlene",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Emberlene",
+      "to": "Ord Pardron",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Ord Pardron",
+      "to": "Kashyyyk",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Kashyyyk",
+      "to": "Nelvaan",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Nelvaan",
+      "to": "Kamino",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Kamino",
+      "to": "Rishi",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Rishi",
+      "to": "Ryloth",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Ryloth",
+      "to": "Christophsis",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Christophsis",
+      "to": "Geonosis",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Geonosis",
+      "to": "Tatooine",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Tatooine",
+      "to": "Naboo",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Naboo",
+      "to": "Krant",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Krant",
+      "to": "Cato Neimoidia",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Cato Neimoidia",
+      "to": "Ando",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Ando",
+      "to": "Deko Neimoidia",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Kashyyyk",
+      "to": "Rothana",
+      "color": "white",
+      "dashed": true
+    },
+    {
+      "from": "Muunilinst",
+      "to": "Ord Trasi",
+      "color": "#9370DB",
+      "dashed": false
+    },
+    {
+      "from": "Ord Trasi",
+      "to": "Mygeeto",
+      "color": "#9370DB",
+      "dashed": false
+    },
+    {
+      "from": "Mygeeto",
+      "to": "Bandomeer",
+      "color": "#9370DB",
+      "dashed": false
+    },
+    {
+      "from": "Bandomeer",
+      "to": "Dathomir",
+      "color": "#9370DB",
+      "dashed": false
+    },
+    {
+      "from": "Dathomir",
+      "to": "Thule",
+      "color": "#9370DB",
+      "dashed": false
+    },
+    {
+      "from": "Corellia",
+      "to": "Khomm",
+      "color": "#00FFFF",
+      "dashed": false
+    },
+    {
+      "from": "Khomm",
+      "to": "Mechis III",
+      "color": "#00FFFF",
+      "dashed": false
+    },
+    {
+      "from": "Eriadu",
+      "to": "Praesitlyn",
+      "color": "#FF69B4",
+      "dashed": false
+    },
+    {
+      "from": "Praesitlyn",
+      "to": "Ando",
+      "color": "#FF69B4",
+      "dashed": false
+    },
+    {
+      "from": "Ando",
+      "to": "Kuat",
+      "color": "#FF69B4",
+      "dashed": false
+    },
+    {
+      "from": "Kuat",
+      "to": "Rendili",
+      "color": "#FF69B4",
+      "dashed": false
+    },
+    {
+      "from": "Rendili",
+      "to": "Anaxes",
+      "color": "#FF69B4",
+      "dashed": false
+    },
+    {
+      "from": "Coruscant",
+      "to": "Corellia",
+      "color": "#FFFF00",
+      "dashed": false
+    },
+    {
+      "from": "Corellia",
+      "to": "Tatooine",
+      "color": "#FFFF00",
+      "dashed": false
+    },
+    {
+      "from": "Coruscant",
+      "to": "Alsakan",
+      "color": "#FF4500",
+      "dashed": false
+    },
+    {
+      "from": "Alsakan",
+      "to": "Felucia",
+      "color": "#FF4500",
+      "dashed": false
+    },
+    {
+      "from": "Felucia",
+      "to": "Pammat",
+      "color": "#FF4500",
+      "dashed": false
+    },
+    {
+      "from": "Pammat",
+      "to": "Raxus Prime",
+      "color": "#FF4500",
+      "dashed": false
+    },
+    {
+      "from": "Raxus Prime",
+      "to": "Kamino",
+      "color": "#FF4500",
+      "dashed": false
+    }
+  ]
+}
